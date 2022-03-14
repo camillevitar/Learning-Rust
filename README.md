@@ -1,2 +1,2 @@
-# Guessing-number
-Guessing number game with Rust
+# Learning Rust
+1. Guessing number game with Rust
